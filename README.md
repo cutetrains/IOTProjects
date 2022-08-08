@@ -8,4 +8,11 @@ password = Your_Password`
 ```
 
 ## uploadDropbox
-Uploads a file to Dropbox/apps/appName. `python uploadDropbox <fileName>`
+Uploads a file to Dropbox/apps/appName. 
+
+`python misc/uploadDropbox.py <fileName>`
+
+## sendSMS
+Sends a predefined text message
+'python misc/sendSMS.py'
+#TODO: Make the file accept parameters for phone number and message
