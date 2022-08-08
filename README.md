@@ -14,5 +14,5 @@ Uploads a file to Dropbox/apps/appName.
 
 ## sendSMS
 Sends a predefined text message
-´python misc/sendSMS.py´
+`python misc/sendSMS.py`
 #TODO: Make the file accept parameters for phone number and message
